@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/romiaujla/inventory-management-server/issues"
   },
-  "homepage": "https://github.com/romiaujla/inventory-management-server#readme"
+  "homepage": "https://github.com/romiaujla/inventory-management-server#readme",
+  "devDependencies": {
+    "@types/node": "22.5.4",
+    "ts-node": "10.9.2",
+    "typescript": "5.6.2"
+  }
 }
