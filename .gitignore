@@ -3,3 +3,18 @@
 
 # node_modules
 node_modules/
+
+# build output
+dist/
+
+# local env files
+.env.local
+
+# Log files
+npm-debug.log*
+
+# Editor directories and files
+.idea
+
+# Mac files
+.DS_Store
